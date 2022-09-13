@@ -1,4 +1,4 @@
-[![Header](https://github.com/SanyaLorik/SanyaLorik/blob/main/assets/header.png)]
+![Header](https://github.com/SanyaLorik/SanyaLorik/blob/main/assets/header.png)
 
 ## 🎮I am unity developer🎮
 
