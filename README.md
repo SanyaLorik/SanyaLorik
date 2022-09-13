@@ -1,18 +1,18 @@
 ![Header](https://github.com/SanyaLorik/SanyaLorik/blob/main/assets/header.png)
 
-## 🎮I am unity developer🎮
+## 🎮I am Unity Developer🎮
 
-<!--
-**SanyaLorik/SanyaLorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Play Market
+I don't have any games in the Player Market yet.
 
-Here are some ideas to get you started:
+## Languages and Tools
+![Unity](https://img.shields.io/badge/-Unity-F85F73?style=for-the-badge&logo=Unity)
+![CSharp](https://img.shields.io/badge/-CSharp-F85F73?style=for-the-badge&logo=CSharp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Zenject](https://img.shields.io/badge/-Zenject-A2D5F2?style=flat-square&logo)
+![UniTask](https://img.shields.io/badge/-UniTask-A2D5F2?style=flat-square&logo)
+![UniRx](https://img.shields.io/badge/-UniRx-A2D5F2?style=flat-square&logo)
+
+## Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-3282B8?style=for-the-badge&logo=Telegram)](https://t.me/boss_alexander)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-3282B8?style=for-the-badge&logo=Telegram)](https://vk.com/sasha_bir)
