@@ -1,6 +1,7 @@
 ![Header](https://github.com/SanyaLorik/SanyaLorik/blob/main/assets/header.png)
 
 ## 🎮I am Unity Developer
+My acquaintance with Unity began in May 2020. From that moment on, I understood a lot about Unity. I already had a git account, but it was bad and there was a lot of garbage in it. Already in this account, I'm going to start my development from a new leaf.
 
 ## 📃List of relevant projects
 [![Game](https://img.shields.io/badge/-🕹️My_Life-1FAB89?style=for-the-badge&logo)](https://github.com/SanyaLorik/MyLife)
