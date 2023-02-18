@@ -7,12 +7,12 @@ My acquaintance with Unity began in May 2020. From that moment on, I understood 
 I am making them right now.
 
 ## 📃List of Relevant Projects
-[![Game](https://img.shields.io/badge/-🕹️Through_Me-1FAB89?style=for-the-badge&logo)](https://github.com/SanyaLorik/ThroughMe)
-
 [![Game](https://img.shields.io/badge/-🕹️Invaders-1FAB89?style=for-the-badge&logo)](https://github.com/SanyaLorik/Invaders)
 
-## 🏪Play Market
-I do not have any games in the Player Market yet.
+[![Game](https://img.shields.io/badge/-🕹️Through_Me-1FAB89?style=for-the-badge&logo)](https://github.com/SanyaLorik/ThroughMe)
+
+## 🏪Playground
+I do not have any games in the playground yet.
 
 ## ⚙️Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity-F85F73?style=for-the-badge&logo=Unity)
