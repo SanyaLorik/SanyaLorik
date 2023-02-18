@@ -21,6 +21,7 @@ I do not have any games in the playground yet.
 ![Zenject](https://img.shields.io/badge/-Zenject-A2D5F2?style=flat-square&logo)
 ![UniTask](https://img.shields.io/badge/-UniTask-A2D5F2?style=flat-square&logo)
 ![UniRx](https://img.shields.io/badge/-UniRx-A2D5F2?style=flat-square&logo)
+![DOTween](https://img.shields.io/badge/-DOTween-A2D5F2?style=flat-square&logo)
 
 ## 👨Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-3282B8?style=for-the-badge&logo=Telegram)](https://t.me/boss_alexander)
