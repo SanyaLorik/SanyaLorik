@@ -11,6 +11,8 @@ I am making them right now.
 
 [![Game](https://img.shields.io/badge/-🕹️Through_Me-1FAB89?style=for-the-badge&logo)](https://github.com/SanyaLorik/ThroughMe)
 
+[![Game](https://img.shields.io/badge/-🕹️Entity_Strategy-1FAB89?style=for-the-badge&logo)](https://github.com/SanyaLorik/Entity_Strategy)
+
 ## 🏪Playground
 I do not have any games in the playground yet.
 
